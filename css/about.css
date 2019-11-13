@@ -14,7 +14,7 @@
     position: relative;
     z-index: 10;
     overflow:visible;
-   background-image: url("extra/View_of_Dun_Laoghaire_from_Ferris_Wheel.jpg");
+   background-image: url("../extra/View_of_Dun_Laoghaire_from_Ferris_Wheel.jpg");
     
  background-size:100%;
  background-position: 50% 50%;

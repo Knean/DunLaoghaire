@@ -1,6 +1,6 @@
 .content{
     width: 80%;
-    margin-top: 50px;
+    margin-top: 25px;
     margin-left:auto;
     margin-right:auto;
     font-size: 2em;
@@ -23,6 +23,7 @@ object-fit: contain;
     height:10px;
 }
 .largeImageContainer{
+    
     scroll-behavior: smooth;
     height: 500px;
     width: 100%;
@@ -44,4 +45,8 @@ object-fit: contain;
 }
 .images{
     display:flex; flex-direction: column; width: 40%; float:left
+}
+.attractionItem{
+    display:block;
+    margin-top: 200px;
 }

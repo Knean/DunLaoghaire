@@ -6,10 +6,27 @@
     z-index: 99;
     position: fixed;
     top:0px;
-    width: 100%
+    width: 100%;
+    background-color: rgba(177, 177, 230, 0.911);
 }
 .navBar div{
     border: solid green;
     width: auto;
-    flex-grow: 1
+    flex-grow: 1;
+    text-align: center;
+
+    
 }
+.navBar div a{
+display:inline-block;
+height:100%;
+width: 100%;
+
+}
+.navBar div a p{
+    line-height: 0;
+}
+.navBar div:hover{
+    background-color: yellow;    
+}
+
