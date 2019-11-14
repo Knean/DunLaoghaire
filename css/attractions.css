@@ -44,7 +44,7 @@ object-fit: contain;
     object-fit: cover;
 }
 .images{
-    display:flex; flex-direction: column; width: 40%; float:left
+    display:flex; flex-direction: column; width: 40%; float:left; margin-right: 15px;
 }
 .attractionItem{
     display:block;
